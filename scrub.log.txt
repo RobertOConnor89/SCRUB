@@ -1,0 +1,14 @@
+9/19/2017
+Part 1:
+Task: create a polynomial class using Python
+Status: Incomplete
+
+Task: complete The Linux Command Line book
+Status: Ch. 5
+
+Task: complete Automate the Boring Stuff with Python book
+Status: Ch. 7
+
+Task: complete Introduction to Statistical Learning course
+Status: Ch. 6
+
