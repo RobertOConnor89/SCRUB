@@ -2,7 +2,7 @@ Project Scrub
 
 '''Project Scrub is the name of the overall plan to become a proficient programmer throught the completion of a series of projects'''
 
-Goals: To become technologically literate to the level of a professional in the areas of programming, software development, cloud computing, machine learning, big data, and the internet of things.  To launch a cross platform application that incorporates these technologies to solve the problem of meal planning.
+Goals: To become technologically literate to the level of a professional in the areas of programming, software development, machine learning, big data, and Linux system administration.  To launch a cross platform application that incorporates these technologies to solve the problem of meal planning.
 
 Skills: programming, sysadmin, data mining, statistical learning, software development
 
@@ -28,7 +28,7 @@ Task: complete ISLR online
 Requirements: complete all labs and assignments
 
 Part 2:
-Task: create a matrix class with C++
+Task: create a matrix class with C++ (C++/Programming/OOP)
 Requirements: addition, multiplication, inversion, linsolv, determinant, trace
 
 Task: complete the Open Data Structures course
